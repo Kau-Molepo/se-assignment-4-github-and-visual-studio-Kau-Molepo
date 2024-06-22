@@ -14,10 +14,10 @@ Introduction to GitHub
 
 GitHub is a web-based platform for version control and collaboration on software development projects. Its primary functions and features include:
 
-    Version control: GitHub allows developers to track changes to their code and collaborate with others on the same project.
-    Repository management: GitHub provides a centralized location for storing and managing code repositories.
-    Collaboration: GitHub enables multiple developers to work on the same project simultaneously, with features like pull requests, code reviews, and issue tracking.
-    Open-source community: GitHub hosts a large community of open-source projects, allowing developers to share and contribute to code.
+    - Version control: GitHub allows developers to track changes to their code and collaborate with others on the same project.
+    - Repository management: GitHub provides a centralized location for storing and managing code repositories.
+    - Collaboration: GitHub enables multiple developers to work on the same project simultaneously, with features like pull requests, code reviews, and issue tracking.
+    - Open-source community: GitHub hosts a large community of open-source projects, allowing developers to share and contribute to code.
 
 GitHub supports collaborative software development by providing a platform for developers to work together on projects, track changes, and collaborate in real-time.
 
@@ -25,66 +25,66 @@ Repositories on GitHub
 
 A GitHub repository is a central location where code is stored and managed. To create a new repository, follow these steps:
 
-    Log in to your GitHub account.
-    Click on the "+" button in the top-right corner of the dashboard.
-    Select "New repository" and enter the repository name, description, and other details.
-    Choose the repository type (public or private) and license.
-    Click "Create repository" to create the new repository.
+    - Log in to your GitHub account.
+    - Click on the "+" button in the top-right corner of the dashboard.
+    - Select "New repository" and enter the repository name, description, and other details.
+    - Choose the repository type (public or private) and license.
+    - Click "Create repository" to create the new repository.
 
 Essential elements to include in a repository:
 
-    README file: a brief introduction to the project and its purpose.
-    License file: specifies the terms of use and distribution of the code.
-    Code files: the actual code for the project.
+    - README file: a brief introduction to the project and its purpose.
+    - License file: specifies the terms of use and distribution of the code.
+    - Code files: the actual code for the project.
 
 
 Version Control with Git
 
 Version control is the process of tracking changes to code over time. Git is a version control system that allows developers to track changes, collaborate, and maintain different versions of their code. GitHub enhances version control for developers by:
 
-    Providing a centralized location for storing and managing code.
-    Enabling collaboration and code reviews.
-    Allowing developers to track changes and maintain different versions of their code.
+    - Providing a centralized location for storing and managing code.
+    - Enabling collaboration and code reviews.
+    - Allowing developers to track changes and maintain different versions of their code.
 
 
 Branching and Merging in GitHub
 
 Branches in GitHub are separate lines of development that allow developers to work on new features or fixes without affecting the main codebase. Branches are important because they enable:
 
-    Isolation of changes: developers can work on new features or fixes without affecting the main codebase.
-    Collaboration: multiple developers can work on different branches simultaneously.
-    Experimentation: developers can try out new ideas without affecting the main codebase.
+    - Isolation of changes: developers can work on new features or fixes without affecting the main codebase.
+    - Collaboration: multiple developers can work on different branches simultaneously.
+    - Experimentation: developers can try out new ideas without affecting the main codebase.
 
 
 To create a branch, make changes, and merge it back into the main branch:
 
-    Create a new branch using git branch <branch-name>.
-    Make changes to the code on the new branch.
-    Commit the changes using git commit -m "commit message".
-    Push the changes to the remote repository using git push origin <branch-name>.
-    Create a pull request to merge the changes into the main branch.
-    Review and approve the pull request.
-    Merge the changes into the main branch using git merge <branch-name>.
-    Pull Requests and Code Reviews
+    - Create a new branch using git branch <branch-name>.
+    - Make changes to the code on the new branch.
+    - Commit the changes using git commit -m "commit message".
+    - Push the changes to the remote repository using git push origin <branch-name>.
+    - Create a pull request to merge the changes into the main branch.
+    - Review and approve the pull request.
+    - Merge the changes into the main branch using git merge <branch-name>.
+    - Pull Requests and Code Reviews
 
 A pull request is a way to propose changes to a repository on GitHub. It facilitates code reviews and collaboration by:
 
-    Allowing developers to review and comment on changes.
-    Enabling multiple developers to collaborate on changes.
-    Providing a clear record of changes and approvals.
+    - Allowing developers to review and comment on changes.
+    - Enabling multiple developers to collaborate on changes.
+    - Providing a clear record of changes and approvals.
 
 To create and review a pull request:
 
-    Create a new branch and make changes to the code.
-    Push the changes to the remote repository.
-    Create a pull request to merge the changes into the main branch.
-    Review and comment on the changes.
-    Approve or reject the pull request.
+    - Create a new branch and make changes to the code.
+    - Push the changes to the remote repository.
+    - Create a pull request to merge the changes into the main branch.
+    - Review and comment on the changes.
+    - Approve or reject the pull request.
 
 
 GitHub Actions
 
-GitHub Actions is a continuous integration and continuous deployment (CI/CD) tool that automates workflows
+- GitHub Actions is a continuous integration and continuous deployment (CI/CD) tool that automates workflows
 
 # Questions
 
